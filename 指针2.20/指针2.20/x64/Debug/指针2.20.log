@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\34132\source\repos\指针2.20\指针2.20\FileName.cpp(5,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34132\source\repos\指针2.20\指针2.20\FileName.cpp(6,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  指针2.20.vcxproj -> C:\Users\34132\source\repos\指针2.20\x64\Debug\指针2.20.exe

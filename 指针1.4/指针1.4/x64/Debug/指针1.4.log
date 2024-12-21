@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\34132\source\repos\指针1.4\指针1.4\FileName.cpp(8,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  指针1.4.vcxproj -> C:\Users\34132\source\repos\指针1.4\x64\Debug\指针1.4.exe

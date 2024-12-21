@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\34132\\source\\repos\\\u6307\u94882.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75728030-0E11-42FB-9E65-BB3D8BA806E4}|\u6307\u94882.1\\\u6307\u94882.1.vcxproj|C:\\Users\\34132\\source\\repos\\\u6307\u94882.1\\\u6307\u94882.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75728030-0E11-42FB-9E65-BB3D8BA806E4}|\u6307\u94882.1\\\u6307\u94882.1.vcxproj|solutionrelative:\u6307\u94882.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\34132\\source\\repos\\\u6307\u94882.1\\\u6307\u94882.1\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u6307\u94882.1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\34132\\source\\repos\\\u6307\u94882.1\\\u6307\u94882.1\\FileName.cpp",
+              "RelativeToolTip": "\u6307\u94882.1\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T15:10:32.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
